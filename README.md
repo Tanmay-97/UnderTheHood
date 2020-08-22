@@ -1,2 +1,2 @@
 # UnderTheHood
-Explore inner mechanisms of data science tools
+Explore inner mechanisms of data science tools in Python
